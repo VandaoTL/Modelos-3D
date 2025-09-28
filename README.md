@@ -1,2 +1,10 @@
 # Modelos-3D
-Um reporitório que utilizarei para colocar modelos 3D que eu for criando!!
+
+O repositório segue a regra:
+- Pastas com o respectivo modelo:
+  - Arquivos do modelo
+  - Inspiração para a criação do modelo
+
+## Com os devidos créditos, tanto a mim quanto para a minha inspiração, pode utilizar meu modelo!
+
+# NÃO AUTORIZO A UTILIZAÇÃO DO MEUS MODELOS PARA TREINO DE LLM

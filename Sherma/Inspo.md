@@ -1,0 +1,1 @@
+# A inspiração é o personagem SHERMA, do Jogo Hollow Night: Silksong.
